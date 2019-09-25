@@ -1,1 +1,2 @@
-# Microsoft DAT256x: Essential Math for Machine Learning Python Edition
+# Microsoft DAT256x: 
+Essential Math for Machine Learning Python Edition
